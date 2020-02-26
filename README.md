@@ -18,7 +18,7 @@ With the intent to showcase the usage of different tools in the Python data scie
 The project is divided into two Jupyter Notebook files, to showcase the whole process of the EDA, not just the final product as we commonly see in different projects.
 
 ### Initial EDA
-The initial EDA is basically an exploration of the data just to get a sense about what it contains, what are its pitfalls, missing values, and the first steps to ask different business questions. This step was done **independently** by all the contributors, each one resulting in a Jupyter Notebook. For simplification, only mine ([@robotenique](https://github.com/robotenique)) notebook is available here, to showcase an example of individual process.
+The initial EDA is basically an exploration of the data just to get a sense about what it contains, what are its pitfalls, missing values, and the first steps to ask different business questions. This step was done **independently** by all the contributors, each one resulting in a Jupyter Notebook. For simplification, only my ([@robotenique](https://github.com/robotenique)) notebook is available here, to showcase an example of individual process.
 
 <p align="center"> <img src="imgs/colors.png"/></p>
 
